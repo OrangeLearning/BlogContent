@@ -1,7 +1,7 @@
 ---
 title: Perceptron
 date: 2018-05-21 23:28:30
-tags: [Machine Leaning, Perceptron]
+tags: [Machine Learning, Perceptron]
 ---
 使用iris data的数据，具体的地址是:
 [iris data](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data)
